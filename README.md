@@ -1,4 +1,4 @@
-Jaideep Singh Kainth
+# Web-Client-and-Multithreaded-web-server
 
 DESCRIPTION: It is a multithreaded Web server and a simple web client project. The web server and client communicate using HTTP. The client requests a file from the server and the server checks if it exists - if it does, the server returns 200 OK message along with the contents of the file to the client; otherwise, it returns 404 Not Found error.
 
